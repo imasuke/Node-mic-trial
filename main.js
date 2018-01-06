@@ -1,6 +1,5 @@
 "use strict";
 
-//var mic = require('mic');
 const mic = require('./mic/lib/mic.js');
 var fs = require('fs');
 var FileWriter = require('wav').FileWriter;
